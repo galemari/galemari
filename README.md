@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on my portfolio doing some java projects<br>I'm looking to collaborate on java and python projects also would be wonderful to have some help with AWS and dockers <br>I'm currently learning AI introduction at Open University of Helsinki<br>Ask me about blockchain and Dapps <3<br>If you love coffee please share with me your favorite coffee brand and how do you like to prepare it 
+I'm Mariana, born in Venezuela, and I'm currently working as an English teacher for Spanish-speaking students. I've been studying programming in various bootcamps such as ADA from Argentina, Coding Dojo from the USA, and Talento Digital from Chile.
+
+My experience as a junior developer has been brief, mainly involving personal projects, but I'm actively seeking collaborations with other programmers. You should contact me if you want an easy-going and detail-oriented worker. You can find my social media profiles above.
+
 
 
 ## 🌐 Socials:
